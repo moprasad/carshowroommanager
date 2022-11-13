@@ -1,0 +1,199 @@
+<html>
+<head>
+<title>welcome in new car zone
+</title>
+<style> 
+body {
+margin:0, 0, 0, 0px;
+}
+a{
+font-family:"verdana";
+font-size:"15";
+text-color:"#563292";
+text-decoration:"none";
+}
+a:hover{
+color:"blue";
+}
+
+.my{
+background-color="#d4d4d4";
+}
+
+</style>
+</head>
+<body bgcolor="#ffffff">
+<table border="1" width="900"align="center"  cellspacing="0" cellpadding="0" >
+<tr>
+<td><img src="lpm.jpeg"  width="198" height="139" ></td>
+<td align="center"  width="504" bgcolor="#d4d4d4"><font face="comic sans ms" size="6" color="#ff0000"><b>HYUNDAI CARSHOWROOM AUTOMATION SYSTEM</FOnt>
+</td>
+<td ><img src="b.jpeg"WIDTH="186" height="135">
+</td>
+</tr>
+</table>
+<table border="0" width="900" align="center" cellspacing="0" cellpadding="0" >
+<tr>
+<td><img src="2012_SONATA_Static_728x90.jpg" height="90" width="900">
+</td>
+</tr>
+</table>
+<table border="0" width="900" align="center" cellspacing="0" cellpadding="0" >
+<tr bgcolor="#d4d4d4">
+<td WIDTH="134"><img src="8.jpeg" width="134" height="77">
+</td>
+<td width="500"><font face="forte" size="4" color="green"><marquee behaviour="scroll" scrollamount="3"  direction="left"><b>WELCOME ALL OF YOU TO MY HOME PAGE</marquee></font>
+</td>
+<td ALIGN="CENTER"><font face="forte" size="4" color="red">Hi,Guest  <a href="user.htm"> <b>login </a></font>
+
+</td>
+<td align="center"><a href="/userRegistration"><b> register  </a>
+</td>
+</tr>
+</table>
+
+<table border="0" width="904" align="center" cellspacing="2" cellpadding="2" >
+        <tr>
+        <td class="my" align="center"><a href="/"><b>home</a></td>
+        <td class="my" align="center"><a href="/aboutus"><b>about us</a></td>
+        <td class="my" align="center"><a href="/contactus"><b>contact us</a></td>
+        <td class="my" align="center"><a href="/news"><b>news</a></td>
+        <td class="my" align="center"><a href="/userlogin"><b>administrator</a></td>
+        <td class="my" align="center"><a href="/photogallery"><b>photo gallery</a></td>
+        </tr>
+        </table>
+
+<table border="0" width="900" align="center" cellspacing="0" cellpadding="0" >
+<tr>
+<td width="15%">
+    <table border="0"  cellspacing="2">
+    <tr><td class="my" align="center"> <a href="/vehiclestockdisplay"><b>vehiclestock</a></font></td></tr>
+    <tr><td class="my" align="center"> <a href="/customerdisplay"><b>customer</a></font></td></tr>
+    <tr><td class="my" align="center"> <a href="/salarydisplay"><b>salary</a></font></td></tr>
+    <tr><td class="my" align="center"><a href="/employeedisplay"><b>employee</a></font></td></tr>
+    <tr><td class="my" align="center"><a href="/bookingdisplay"><b>booking</a></font></td></tr>
+    <tr><td class="my" align="center"><a href="/allotmentdisplay"><b>allotment</a></font></td></tr>
+    <tr><td class="my" align="center"><a href="/deliverydisplay"><b>delivery</a></font></td></tr>
+    <tr><td class="my" align="center"><a href="/paymentdisplay"><b>payment</a></font></td></tr>
+    <tr><td  align="center"><img src="lft-promo.gif" height="220" width="130">
+    </td></tr>  
+    <tr>
+    <td bgcolor="#ff0000" align="center"><font face="verdana" size="3" color="#ffffff"><b><U>LATEST NEWS</font>
+    </td>
+    </tr>
+    <tr height="180">
+    <td bgcolor="#259563" align="center"><font face="verdana" size="2" color="#ffffff"><marquee behaviour="scroll" scrollamount="2" direction="up">The huge discount on new Hyundai Trajet. For more information <a href="www.hyundai.com">CLICK HERE <img src="hyundai trajet.jpg" width="125" height="93"></a></marquee></font></td></tr>
+    
+    </table>
+</td>
+<td valign="top" >
+    <table border="0" width="765" height="675">
+    <tr>
+    <td valign="top" width="605"><table border="0" cellspacing="0" cellpadding="0" width="590" height="293">
+<tr>
+<td valign="top" align="center"><img src="095071_LatestReleased_1_095071_Web.jpg" width="572" height="293">
+</td>
+</tr>
+</table>
+<table border="0" width="590" height="200" cellspacing="0" cellpadding="0" >
+<tr>
+<td valign="top"><img src="1362065c-0c31-11df-aa01-000b5dabf636.jpg" width="300" height="200">
+</td>
+<td valign="top"><img src="o.jpeg" width="272" height="200">
+</td>
+</tr>
+</table>
+<table border="0" width="590" cellspacing="0" cellpadding="0" >
+<tr>
+<td valign="top"><img src="ky350027.jpg" width="113" height="170">
+</td>
+<td><img src="ky350036.jpg" width="110" height="170">
+</td>
+<td><img src="ky350039.jpg" width="110" height="170">
+</td>
+<td><img src="ky350043.jpg" width="110" height="170">
+</td>
+<td><img src="ky350061.jpg" width="110" height="170">
+</td>
+
+
+</tr>
+</table>
+
+
+
+
+</td>
+
+
+<td valign="top"><table border="0" width="160" height="675" cellspacing="0" cellpadding="0" >
+<tr>
+<td valign="top"><img src="hyundai-getz-01.jpg" width="160" height="100">
+</td>
+</tr>
+<tr>
+<td><img src="hyundai-tucson-03.jpg" width="160" height="100">
+</td>
+</tr>
+<tr>
+<td><img src="hyundai-verna-04.jpg" width="160" height="100">
+</td>
+</tr>
+<tr>
+<td><img src="hyundai-santro-03.jpg" width="160" height="100">
+</td>
+</tr>
+<tr>
+<td><img src="hyundai-accent-04.jpg" width="160" height="100">
+</td>
+</tr>
+<tr>
+<td><img src="hyundai-elantra-01.jpg" width="160" height="100">
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table> 
+</td>
+</tr>
+</table>
+<table border="0" width="905" align="center"bgcolor="#5235ff" cellspacing="0" cellpadding="0">
+
+<tr>
+<td align="center"><font face="verdana" size="2" color="#ffffff"><b><u>Your feedback will help us improve. Please give us your feedback.
+</td>
+</tr> 
+<tr>
+<td align="center" ><BR><font face="verdana" size="2" color="#ffffff"><b>COPYRIGHT 2011 WWW.HYUNDAI.COM.  ALL RIGHTS RESERVED.UNAUTHORISED ACCESS IS PROHIBITED.</FONT>
+</td>
+</tr>
+</table>
+
+
+
+<table border="0" width="905" align="center" bgcolor="#5235ff" cellspacing="0" cellpadding="0" >
+<tr>
+<td ><a href="www.facebook.com"><img src="2p.jpeg" width="50" height="70"></a>
+</td>
+<td><a href="www.twitter.com"><img src="5a.jpeg" width="50"height="70"></a>
+</td>
+
+<td ><a href="www.hyundai.com"><img src="oop.jpeg" width="230" height="70"></a>
+</td>
+<td><img src="01.jpg" width="185"height="70">
+</td>
+
+<td><img src="03.jpg" width="185"height="70">
+</td>
+<td><img src="05.jpg" width="185"height="70">
+</td>
+<tr> 
+<td align="center" colspan="7">
+<font face="verdana" size="2" color="#ffffff"><b><marquee behaviour="scroll" scrollamount="4" direction="left">This software is developed by: Prashant </marquee></font>
+</td>
+</tr>
+</table>
+
+</body>
+</html>

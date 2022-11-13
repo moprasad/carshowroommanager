@@ -1,0 +1,11 @@
+drop table vehiclemaster;
+drop table vehiclestock;
+drop table customer;
+drop table salary;
+drop table employee;
+drop table booking;
+drop table allotment;
+drop table delivery;
+drop table security;
+drop table payment;
+commit;
