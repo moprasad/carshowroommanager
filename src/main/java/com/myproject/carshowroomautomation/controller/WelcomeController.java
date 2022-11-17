@@ -33,6 +33,11 @@ public class WelcomeController {
 		return "userlogin";
 	}
 
+	@RequestMapping(value = "/user", method = RequestMethod.GET)
+	public String user(ModelMap model) {
+		return "user";
+	}
+	
 	@RequestMapping(value = "/admin", method = RequestMethod.GET)
 	public String admin(ModelMap model) {
 		return "admin";

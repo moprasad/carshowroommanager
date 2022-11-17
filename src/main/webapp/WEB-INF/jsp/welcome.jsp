@@ -44,7 +44,7 @@ background-color="#d4d4d4";
 </td>
 <td width="500"><font face="forte" size="4" color="green"><marquee behaviour="scroll" scrollamount="3"  direction="left"><b>WELCOME ALL OF YOU TO MY HOME PAGE</marquee></font>
 </td>
-<td ALIGN="CENTER"><font face="forte" size="4" color="red">Hi,Guest  <a href="user.htm"> <b>login </a></font>
+<td ALIGN="CENTER"><font face="forte" size="4" color="red">Hi,Guest  <a href="/user"> <b>login </a></font>
 
 </td>
 <td align="center"><a href="/userRegistration"><b> register  </a>

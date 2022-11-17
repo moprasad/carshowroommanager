@@ -1,24 +1,24 @@
 create table security
 (
- username varchar(15),
- password varchar(15),
+ username varchar(30),
+ password varchar(20),
   hint varchar(30)),
   role varchar(30)
 ),
 create table vehiclestock
 (
- vic_id varchar(15),
- vic_name varchar(15),
+ vic_id varchar(20),
+ vic_name varchar(30),
  mod_no varchar(15),
- stock varchar(5)
+ stock varchar(10)
 ),
  create table customer
  (
- cust_id varchar(10),
- name varchar(15),
+ cust_id varchar(20),
+ name varchar(30),
  phoneno varchar(14),
- address varchar(15),
- occupation varchar(15)
+ address varchar(30),
+ occupation varchar(30)
  ),
  create table salary
 (
@@ -30,31 +30,31 @@ create table vehiclestock
  ),
  create table employee
 (
- emp_id varchar(10),
- name varchar(15),
- dept varchar(15),
+ emp_id varchar(15),
+ name varchar(30),
+ dept varchar(20),
  sal varchar(7),
  con_no varchar(13),
- address varchar(20),
+ address varchar(30),
  doj varchar(15)
  );
  
  create table booking
 (
- cust_id varchar(10),
+ cust_id varchar(15),
  vid varchar(15),
- vehicle_name varchar(15),
+ vehicle_name varchar(20),
  bkng_no varchar(15),
  dobooking varchar(15)
  );
 
  create table allotment
 (
- cust_id varchar(10),
+ cust_id varchar(15),
  vid varchar(15),
  dol varchar(15),
- adv_pt varchar(5),
- dues varchar(5)
+ adv_pt varchar(8),
+ dues varchar(8)
  );
  
  create table delivery
