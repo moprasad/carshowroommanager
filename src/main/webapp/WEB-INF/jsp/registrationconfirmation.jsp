@@ -18,7 +18,7 @@ if(uname!=null)
 			ResultSet rs=stmt.executeQuery(sql);
 			if(rs.next())
 			{
-				%> UserId/Login Already Created.....<br>Chhose Another Login ID <a href="admin.htm">BACK</a>&nbsp<a href="home.htm">HOME</a>
+				%> UserId/Login Already Created.....<br>Chhose Another Login ID <a href="admin.htm">BACK</a>
 					<br>
 			<%
 			}
@@ -26,7 +26,7 @@ if(uname!=null)
 			{
 			sql="insert into security values('"+uname+"','"+pass1+"','"+hint+"','"+type+"')";
 			stmt.executeUpdate(sql);
-			%>User Created.....<a href="admin.htm">BACK</a>&nbsp<a href="home.htm">HOME</a>
+			%>User Created.....<a href="admin.htm">BACK</a>
 			<%}
 	}
 	

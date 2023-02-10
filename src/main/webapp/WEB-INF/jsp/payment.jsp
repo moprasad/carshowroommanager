@@ -27,7 +27,7 @@ stmt.executeUpdate("commit");
 stmt.close();
 con.close();
 %>
-<h1>Thank you ! New payment Record is inserted</h1><a href="admin.htm">BACK</a>&nbsp<a href="home.htm">HOME</a>
+<h1>Thank you ! New payment Record is inserted</h1><a href="admin.htm">BACK</a>
 <%
 }
 catch(Exception  ex)
